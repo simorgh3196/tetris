@@ -15,3 +15,5 @@ private static final String DB_TABLE_NAME = "";
 private static final String DB_USER_NAME = "****";
 private static final String DB_USER_PASSWORD = "****";
 ```
+
+あとjdbcドライバを自分のから設定しなおさないとダメかもしれない
