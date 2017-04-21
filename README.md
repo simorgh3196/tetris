@@ -17,3 +17,8 @@ private static final String DB_USER_PASSWORD = "****";
 ```
 
 あとjdbcドライバを自分のから設定しなおさないとダメかもしれない
+
+## フォルダ構成
+- `/src/**/`: Servletのソース
+- `/tetris/**/`: Appletのソース
+- `/web/**`: Servletの設定ファイル
